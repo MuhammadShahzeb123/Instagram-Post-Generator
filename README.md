@@ -16,7 +16,7 @@ Gemini is a Python-based tool that generates social media posts using Google's G
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/MuhammadShahzeb123/Instagram-Post-Generator
+    git clone https://github.com/MuhammadShahzeb123/Instagram-Post-Generator.git
     cd Instagram-Post-Generator
     ```
 
